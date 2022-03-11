@@ -1,4 +1,4 @@
-# Frontend Mentor - Huddle landing page with alternating feature blocks
+https://determined-pasteur-6d0e65.netlify.app
 
 ![Design preview for the Huddle landing page with alternating feature blocks coding challenge](./design/desktop-preview.jpg)
 
