@@ -1,0 +1,342 @@
+@media only screen and (min-width: 992px){
+    .top{
+        background: rgba(203, 203, 255, 0.212);
+        width: 100%;
+        height: 600px;
+        background-image: url(images/bg-hero-desktop.svg);
+        background-position: center;
+        background-size:cover ;
+        background-blend-mode: darken;
+    }
+    .logo{
+        width: 150px;
+    }
+
+    .nav_btn{
+        background-color: white;
+        padding: 13px;
+        width: 170px;
+        border: none;
+        border-radius: 50px;
+        font-size: 15px;
+        color: rgb(21, 21, 77);
+        font-weight: bolder;
+        font-family: 'Roboto Mono', monospace;
+        -webkit-box-shadow: 3px 4px 33px -3px rgba(0,0,0,0.51); 
+        box-shadow: 3px 4px 33px -3px rgba(0,0,0,0.51);
+    }
+
+    .title{
+        font-family: 'Roboto Mono', monospace;
+        font-weight: bolder;
+        width: 400px;
+        margin-bottom: 30px;
+    }
+
+    .description{
+        font-family: 'Roboto Mono', monospace;
+        text-align: justify;
+        margin-bottom: 30px;
+        width: 500px;
+    }
+
+    .get_started{
+        background-color: rgb(222, 58, 255);
+        padding: 13px;
+        width: 300px;
+        border: none;
+        border-radius: 50px;
+        font-size: 15px;
+        color: rgb(21, 21, 77);
+        font-weight: bolder;
+        font-family: 'Roboto Mono', monospace;
+        color: white;
+    }
+
+    .first{
+        height: 400px;
+        -webkit-box-shadow: 3px 4px 33px -3px rgba(0,0,0,0.51); 
+        box-shadow: 3px 4px 33px -3px rgba(0,0,0,0.51);
+        margin-top: 100px;
+        border-radius: 30px;
+        margin-top: 100px;
+        margin-bottom: 50px;
+    }
+
+    .grow_img{
+        width: 400px;
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+
+    .title_grow{
+text-align: start;
+margin-top:140px;
+margin-left: 100px;
+color: rgb(21, 21, 77);
+font-size: 40px;
+font-family: 'Roboto Mono', monospace;
+    }
+
+    .grw_description{
+        width: 400px;
+        margin-left: 100px;
+       margin-top: 30px;
+       text-align: justify;
+       color: rgb(21, 21, 77);
+    }
+
+    .second{
+        height: 400px;
+        -webkit-box-shadow: 3px 4px 33px -3px rgba(0,0,0,0.51); 
+        box-shadow: 3px 4px 33px -3px rgba(0,0,0,0.51);
+        margin-top: 100px;
+        border-radius: 30px;
+        margin-top: 100px;
+        margin-bottom: 50px;
+    }
+
+    .flw_img{
+        width: 400px;
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+
+    .title_flow{
+text-align: start;
+margin-top:140px;
+margin-left: 100px;
+color: rgb(21, 21, 77);
+font-size: 40px;
+font-family: 'Roboto Mono', monospace;
+    }
+
+    .flw_description{
+        width: 400px;
+        margin-left: 100px;
+       margin-top: 30px;
+       text-align: justify;
+       color: rgb(21, 21, 77);
+    }
+
+    .third{
+        height: 400px;
+        -webkit-box-shadow: 3px 4px 33px -3px rgba(0,0,0,0.51); 
+        box-shadow: 3px 4px 33px -3px rgba(0,0,0,0.51);
+        margin-top: 100px;
+        border-radius: 30px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+
+    .usr_img{
+        width: 400px;
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+
+    .title_users{
+text-align: start;
+margin-top:140px;
+margin-left: 100px;
+color: rgb(21, 21, 77);
+font-size: 40px;
+font-family: 'Roboto Mono', monospace;
+    }
+
+    .usr_description{
+        width: 400px;
+        margin-left: 100px;
+       margin-top: 30px;
+       text-align: justify;
+       color: rgb(21, 21, 77);
+    }
+
+    .register{
+        width: 100px;
+        -webkit-box-shadow: 3px 4px 33px -3px rgba(0,0,0,0.51); 
+    box-shadow: 3px 4px 33px -3px rgba(0,0,0,0.51);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'Roboto Mono', monospace;
+    border-radius: 30px;
+    margin-bottom: 40px;
+    }
+
+    .question{
+        margin-bottom: 40px;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    .top{
+        background: rgba(203, 203, 255, 0.212);
+        width: 100%;
+        height: 840px;
+        background-image: url(images/bg-hero-mobile.svg);
+        background-position: center;
+        background-size:cover ;
+        background-blend-mode: darken;
+    }
+
+   .logo{
+       width: 130px;
+       margin-left: 20px;
+   }
+
+   .title{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bolder;
+    font-size: 25px;
+    width: 90%;
+    margin: auto auto;
+    margin-bottom: 50px;
+}
+
+.description{
+    font-family: 'Roboto Mono', monospace;
+    width: 90%;
+    margin: auto auto;
+    margin-bottom: 50px;
+}
+
+.get_started{
+    background-color: rgb(222, 58, 255);
+    padding: 13px;
+    width: 300px;
+    border: none;
+    border-radius: 50px;
+    font-size: 15px;
+    color: rgb(21, 21, 77);
+    font-weight: bolder;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+    margin-bottom: 50px;
+}
+
+   .nav_btn{
+    background-color: white;
+    padding: 13px;
+    width: 100px;
+    border: none;
+    border-radius: 50px;
+    font-size: 10px;
+    color: rgb(21, 21, 77);
+    font-weight: bolder;
+    font-family: 'Roboto Mono', monospace;
+    -webkit-box-shadow: 3px 4px 33px -3px rgba(0,0,0,0.51); 
+    box-shadow: 3px 4px 33px -3px rgba(0,0,0,0.51);
+    margin-right: 20px;
+}
+
+.first{
+    height: 450px;
+    -webkit-box-shadow: 3px 4px 33px -3px rgba(0,0,0,0.51); 
+    box-shadow: 3px 4px 33px -3px rgba(0,0,0,0.51);
+    margin-top: 100px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    padding: 20px;
+}
+
+.grow_img{
+    width: 200px;
+    margin-top: 30px;
+    padding-bottom: 10px;
+}
+
+.title_grow{
+text-align: center;
+color: rgb(21, 21, 77);
+font-size: 40px;
+margin-top: 20px;
+}
+
+.grw_description{
+    width: 300px;
+   
+   text-align: center;
+   color: rgb(21, 21, 77);
+   margin: auto auto;
+   margin-top: 30px;
+}
+
+.second{
+    height: 450px;
+    -webkit-box-shadow: 3px 4px 33px -3px rgba(0,0,0,0.51); 
+    box-shadow: 3px 4px 33px -3px rgba(0,0,0,0.51);
+    margin-top: 100px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    padding: 20px;
+}
+
+.flw_img{
+    width: 200px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.title_flow{
+text-align: center;
+color: rgb(21, 21, 77);
+font-size: 40px;
+margin-top: 20px;
+}
+
+.flw_description{
+    width: 300px;
+   
+   text-align: center;
+   color: rgb(21, 21, 77);
+   margin: auto auto;
+   margin-top: 30px;
+}
+
+.third{
+    height: 450px;
+    -webkit-box-shadow: 3px 4px 33px -3px rgba(0,0,0,0.51); 
+    box-shadow: 3px 4px 33px -3px rgba(0,0,0,0.51);
+    margin-top: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 20px;
+}
+
+.usr_img{
+    width: 200px;
+    margin-top: 30px;
+    padding-bottom: 10px;
+}
+
+.title_users{
+text-align: center;
+color: rgb(21, 21, 77);
+font-size: 40px;
+margin-top: 20px;
+}
+
+.usr_description{
+    width: 300px;
+   
+   text-align: center;
+   color: rgb(21, 21, 77);
+   margin: auto auto;
+   margin-top: 30px;
+}
+
+.register{
+    width: 100px;
+    -webkit-box-shadow: 3px 4px 33px -3px rgba(0,0,0,0.51); 
+box-shadow: 3px 4px 33px -3px rgba(0,0,0,0.51);
+padding-top: 50px;
+padding-bottom: 50px;
+font-family: 'Roboto Mono', monospace;
+border-radius: 30px;
+margin-bottom: 40px;
+}
+
+.question{
+    margin-bottom: 40px;
+}
+}
